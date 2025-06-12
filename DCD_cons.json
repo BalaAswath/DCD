@@ -1,5 +1,5 @@
 {
-	"file": "DCD.csv",
+	"file": "https://raw.githubusercontent.com/BalaAswath/DCD/refs/heads/main/DCD_consalidated.csv",
 	"name": "A5D Enriched ",
 	"header": 0,
 	"separator": ",",
