@@ -1,18 +1,18 @@
 {
-  "file": "https://raw.githubusercontent.com/BalaAswath/DCD/refs/heads/main/DCD_common.csv",
+  "file": "https://raw.githubusercontent.com/BalaAswath/DCD/refs/heads/main/DCD_consalidated.csv",
   "name": "A5D Enriched",
   "header": 0,
   "separator": ",",
   "skip": 0,
   "meta": [
     { "type": "id", "index": 0, "name": "Name" },
-    { "type": "float", "index": 15, "name": "APC", "min": 0, "max": 10 }
+    { "type": "float", "index": 5, "name": "Log2APC", "min": 0, "max": 10 }
   ],
   "sets": [
     {
       "format": "binary",
       "start": 1,
-      "end": 14
+      "end": 4
     }
   ]
 }
